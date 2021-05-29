@@ -9,6 +9,9 @@ from decimal import *
 import session4
 from session4 import Qualean
 
+# added import statement
+#import test_session4
+
 README_CONTENT_CHECK_FOR = [
     "and",
     "or",
